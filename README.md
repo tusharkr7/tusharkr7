@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tushar Kumar
-- 👀 I’m interested in Development 
+- 👀 I’m interested in Development & DSA
 - 🌱 I’m currently learning Development
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me ...
