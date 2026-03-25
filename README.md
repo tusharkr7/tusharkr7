@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Tushar Kumar
 - 👀 I’m interested in Backend & DSA
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Web development
+- 💞️ I’m looking to collaborate on Backend
 - 📫 How to reach me ...
-- 😄 Pronouns:PDOAT{raga}
+- 😄 Pronouns: 
 
 <!---
 tusharkr7/tusharkr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
