@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend & DSA
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Backend Projects
-- 📫 How to reach me
+- 📫 How to reach me : linkedIn tusharkr7
 - 📈 Keep optimizing...
 
 <!---
